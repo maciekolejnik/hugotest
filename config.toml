@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Personal website of macio bacio"
+theme="ananke"
+publishDir="~/Sites/maciekolejnik.github.io"
