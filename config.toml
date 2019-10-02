@@ -1,5 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://macandwen.com/"
 languageCode = "en-us"
-title = "Personal website of macio bacio"
+title = "Mac and Wen | Travel, Run, Explore"
 theme="ananke"
-publishDir="~/Sites/maciekolejnik.github.io"
